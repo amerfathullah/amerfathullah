@@ -1,12 +1,12 @@
-# .github/workflows/update-readme.yml
 name: Update README with recent activity
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"  # every 30 minutes
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
