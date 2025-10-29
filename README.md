@@ -1,35 +1,114 @@
 <h1 align="center">Hi 👋, I'm Amer Fathullah</h1>
-<h3 align="center">A passionate software developer from Malaysia</h3>
+<h3 align="center">A Full-Stack Developer from Malaysia 🇲🇾</h3>
 
-<p align="center"> <a href="https://twitter.com/AmerFathullah" target="blank"><img src="https://img.shields.io/twitter/follow/AmerFathullah?logo=twitter&style=for-the-badge" alt="AmerFathullah" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/AmerFathullah" target="blank">
+    <img src="https://img.shields.io/twitter/follow/AmerFathullah?logo=twitter&style=for-the-badge" alt="AmerFathullah" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [TFX Biz Flow](https://app.tfxbizflow.com/)
+- 🔭 I’m currently working as a **Full-Stack DevOps Engineer** at [TFX Islamic Sdn Bhd](https://www.tfxislamic.com), developing **ERP and Supply Chain Financing** systems using **Angular**, **.NET**, and **PostgreSQL**.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and building cross-platform mobile apps.
 
-<!-- - 👯 I’m looking to collaborate on [something](https://github.com/amerfathullah/) -->
+- 👨‍💻 Check out my portfolio at [amerfathullah.com](https://www.amerfathullah.com)
 
-<!-- - 👨‍💻 All of my projects are available at [http://amerfathullah.com/](http://amerfathullah.com/) -->
+- 🚀 I also run [Amer Tech Solutions](https://amertechsolutions.amerfathullah.com) — offering IT and repair services.
 
-<!-- - 📝 I regularly write articles on [https://medium.com/@amerfathullah](https://medium.com/@amerfathullah) -->
+- 📫 Reach me at **me@amerfathullah.com**
 
-<!-- - 💬 Ask me about **flutter and javascript** -->
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/amerfathullah/)
 
-- 📫 How to reach me **amerfathullah@gmail.com**
+- ⚡ Fun fact: **I love anime & retro gaming 🎮**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amerfathullah/](https://www.linkedin.com/in/amerfathullah/)
+---
 
-- ⚡ Fun fact **I like anime & video games 🎮**
+<h3 align="left">💻 Tech Stack Overview</h3>
+
+**Frontend Development**
+- Angular • TypeScript • JavaScript • HTML • CSS • Tailwind • Astro
+
+**Backend Development**
+- .NET (C#) • Node.js • PHP • REST API Design
+
+**Database & Cloud**
+- PostgreSQL • MySQL • Firebase • Docker • Kubernetes
+
+**DevOps & Tools**
+- Git • GitHub • CI/CD Pipelines • Nginx • Linux (Ubuntu, Debian)
+
+**Mobile Development**
+- Flutter • Dart • Firebase Auth/Firestore
+
+**Other Interests**
+- Self-hosting • Cloud Deployment • Home Server Setup • Retro Gaming Emulation
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amerfathullah&count_private=true&show_icons=true&locale=en" alt="amerfathullah" /></p>
+---
+
+<h3 align="left">Highlighted Projects:</h3>
+
+- 💼 [**Enterprise Resource Planning (ERP)**](https://app.tfxflow.com) — Streamlining business processes using **Angular**, **.NET**, and **PostgreSQL**.  
+- 💰 [**Supply Chain Financing Platform**](https://app.tfxislamic.com) — Enhancing liquidity and working capital across partner ecosystems.  
+- 🏢 [**Amer Tech Solutions**](https://amertechsolutions.amerfathullah.com) — Business landing page built with **Astro** and **Tailwind CSS**.  
+- 🌐 [**Personal Portfolio**](https://www.amerfathullah.com) — Showcasing my skills, experience, and tech projects.  
+
+---
+
+<h3 align="left">Certifications:</h3>
+
+- 🎓 **Bachelor of Engineering (Computer & Information)** – IIUM  
+- 🧠 [Certified Engineer in Computer Vision](https://cert.certifai.ai/1a9be791-bbb8-47af-be8f-57b70fa3028b)  
+- 🤖 [Artificial Intelligence from a Data Perspective](https://cert.certifai.ai/62fb724f-fb77-4117-99df-76a3169c3ef0)  
+- 📱 [Flutter & Dart – The Complete Guide](https://www.udemy.com/certificate/UC-204d389d-7290-41b8-b858-c733d8f5b4bb)  
+- 💻 [Build an App with ASP.NET Core and Angular](https://ude.my/UC-47d01744-374f-44d9-bf87-a10df7f1e666)  
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amerfathullah&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="amerfathullah" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amerfathullah&theme=tokyonight" alt="amerfathullah" />
+</p>
+
+---
+
+<h3 align="left">🕒 Recent Activity:</h3>
+
+<!--START_SECTION:activity-->
+<!-- This section is automatically updated by GitHub Actions -->
+1. 💻 Pushed new commits to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)
+2. 🚀 Updated [amertechsolutions](https://github.com/amerfathullah/amertechsolutions) with new features
+3. 🧩 Worked on ERP and Supply Chain integration
+4. 📝 Reviewed PRs and improved CI/CD pipelines
+<!--END_SECTION:activity-->
+
+*(This section updates automatically — powered by [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AmerFathullah" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="AmerFathullah" height="40" width="40"/></a>
-<a href="https://linkedin.com/in/amerfathullah/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="https://www.linkedin.com/in/amerfathullah/" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/13213044/amer-fathullah" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="https://stackoverflow.com/users/13213044/amer-fathullah" height="40" width="40" /></a>
-<a href="https://www.facebook.com/amer.fathullah" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="https://www.facebook.com/amer.fathullah" height="40" width="40" /></a>
-<a href="https://medium.com/@amerfathullah" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="@amerfathullah" height="40" width="40" /></a>
+<a href="https://twitter.com/AmerFathullah" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="Twitter" height="40" width="40"/></a>
+<a href="https://linkedin.com/in/amerfathullah/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/13213044/amer-fathullah" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="StackOverflow" height="40" width="40" /></a>
+<a href="https://www.facebook.com/amer.fathullah" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" height="40" width="40" /></a>
+<a href="https://medium.com/@amerfathullah" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="Medium" height="40" width="40" /></a>
 </p>
