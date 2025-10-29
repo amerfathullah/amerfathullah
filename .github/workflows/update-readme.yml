@@ -9,6 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+
+      - name: Update README
+        uses: Readme-Workflows/recent-activity@v2.4.1
         with:
-          CONFIG_FILE: .github/recent-activity.config.yml
+          GH_USERNAME: amerfathullah
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
