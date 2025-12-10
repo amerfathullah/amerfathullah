@@ -117,7 +117,6 @@
 2. ⬆️ Pushed undefined commit(s) to [amerfathullah/amertechsolutions](https://github.com/amerfathullah/amertechsolutions)<br>
 3. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 4. ⭐ Starred [contains-studio/agents](https://github.com/contains-studio/agents)<br>
-5. ⭐ Starred [Coporton/IDM-Activation-Script](https://github.com/Coporton/IDM-Activation-Script)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
