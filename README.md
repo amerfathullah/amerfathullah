@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content)<br>
-2. ⭐ Starred [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)<br>
-3. ⬆️ Pushed undefined commit(s) to [amerfathullah/amertechsolutions](https://github.com/amerfathullah/amertechsolutions)<br>
-4. ⬆️ Pushed undefined commit(s) to [amerfathullah/amertechsolutions](https://github.com/amerfathullah/amertechsolutions)<br>
-5. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
+3. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
+4. ⭐ Starred [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content)<br>
+5. ⭐ Starred [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
