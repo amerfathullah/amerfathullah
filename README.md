@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)<br>
+1. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 2. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
-3. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
+3. ⭐ Starred [Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)<br>
 4. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
-5. ⭐ Starred [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content)<br>
+5. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
