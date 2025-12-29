@@ -114,9 +114,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev](https://github.com/amerfathullah/dev)<br>
-2. 🔱 Forked [amerfathullah/dev](https://github.com/amerfathullah/dev) from [michael-andreuzza/microstudio](https://github.com/michael-andreuzza/microstudio)<br>
-3. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev](https://github.com/amerfathullah/dev)<br>
+3. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev](https://github.com/amerfathullah/dev)<br>
+4. 🔱 Forked [amerfathullah/dev](https://github.com/amerfathullah/dev) from [michael-andreuzza/microstudio](https://github.com/michael-andreuzza/microstudio)<br>
 5. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
