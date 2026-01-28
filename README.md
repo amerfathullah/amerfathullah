@@ -114,7 +114,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Yujonpradhananga/Persona-Quickshell-](https://github.com/Yujonpradhananga/Persona-Quickshell-)<br>
-2. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
