@@ -117,7 +117,6 @@
 2. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 3. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev](https://github.com/amerfathullah/dev)<br>
 4. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev](https://github.com/amerfathullah/dev)<br>
-5. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev](https://github.com/amerfathullah/dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
