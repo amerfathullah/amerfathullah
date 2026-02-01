@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)<br>
-2. ⭐ Starred [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)<br>
-3. ⭐ Starred [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin)<br>
-4. ⭐ Starred [fmhy/edit](https://github.com/fmhy/edit)<br>
-5. ⭐ Starred [Yujonpradhananga/Persona-Quickshell-](https://github.com/Yujonpradhananga/Persona-Quickshell-)<br>
+1. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
+2. ⭐ Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)<br>
+3. ⭐ Starred [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)<br>
+4. ⭐ Starred [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin)<br>
+5. ⭐ Starred [fmhy/edit](https://github.com/fmhy/edit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
