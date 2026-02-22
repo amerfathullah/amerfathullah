@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)<br>
-2. ⭐ Starred [openagen/zeroclaw](https://github.com/openagen/zeroclaw)<br>
-3. ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
-4. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
-5. ⭐ Starred [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)<br>
+1. ⭐ Starred [nearai/ironclaw](https://github.com/nearai/ironclaw)<br>
+2. ⭐ Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)<br>
+3. ⭐ Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)<br>
+4. ⭐ Starred [openagen/zeroclaw](https://github.com/openagen/zeroclaw)<br>
+5. ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
