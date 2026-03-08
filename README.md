@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tnm/zclaw](https://github.com/tnm/zclaw)<br>
-2. ⭐ Starred [nearai/ironclaw](https://github.com/nearai/ironclaw)<br>
-3. ⭐ Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)<br>
-4. ⭐ Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)<br>
-5. ⭐ Starred [openagen/zeroclaw](https://github.com/openagen/zeroclaw)<br>
+1. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)<br>
+2. ⭐ Starred [Ulrich-Tonmoy/cheat-sheets](https://github.com/Ulrich-Tonmoy/cheat-sheets)<br>
+3. ⭐ Starred [tnm/zclaw](https://github.com/tnm/zclaw)<br>
+4. ⭐ Starred [nearai/ironclaw](https://github.com/nearai/ironclaw)<br>
+5. ⭐ Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
