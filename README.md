@@ -117,7 +117,6 @@
 2. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
 3. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)<br>
 4. ⭐ Starred [Ulrich-Tonmoy/cheat-sheets](https://github.com/Ulrich-Tonmoy/cheat-sheets)<br>
-5. ⭐ Starred [tnm/zclaw](https://github.com/tnm/zclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
