@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)<br>
-2. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
-3. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
-4. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)<br>
-5. ⭐ Starred [Ulrich-Tonmoy/cheat-sheets](https://github.com/Ulrich-Tonmoy/cheat-sheets)<br>
+1. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+2. ⭐ Starred [nirholas/claude-code](https://github.com/nirholas/claude-code)<br>
+3. ⭐ Starred [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)<br>
+4. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
+5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
