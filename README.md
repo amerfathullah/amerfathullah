@@ -114,7 +114,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [codeaashu/claude-code](https://github.com/codeaashu/claude-code)<br>
-2. ⭐ Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)<br>
+2. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)<br>
 3. ⭐ Starred [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code)<br>
 4. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
 5. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
