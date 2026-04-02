@@ -117,7 +117,7 @@
 2. ⭐ Starred [codeaashu/claude-code](https://github.com/codeaashu/claude-code)<br>
 3. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)<br>
 4. ⭐ Starred [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code)<br>
-5. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
+5. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
