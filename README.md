@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codeaashu/claude-code](https://github.com/codeaashu/claude-code)<br>
-2. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)<br>
-3. ⭐ Starred [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code)<br>
-4. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
-5. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+1. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
+2. ⭐ Starred [codeaashu/claude-code](https://github.com/codeaashu/claude-code)<br>
+3. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)<br>
+4. ⭐ Starred [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code)<br>
+5. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
