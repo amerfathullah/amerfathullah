@@ -113,11 +113,11 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CannoliHQ/cannoli](https://github.com/CannoliHQ/cannoli)<br>
-2. ⬆️ Pushed undefined commit(s) to [amerfathullah/amertechsolutions](https://github.com/amerfathullah/amertechsolutions)<br>
+1. ⭐ Starred [Fnordcorps/ROM](https://github.com/Fnordcorps/ROM)<br>
+2. ⭐ Starred [CannoliHQ/cannoli](https://github.com/CannoliHQ/cannoli)<br>
 3. ⬆️ Pushed undefined commit(s) to [amerfathullah/amertechsolutions](https://github.com/amerfathullah/amertechsolutions)<br>
-4. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
-5. ⭐ Starred [codeaashu/claude-code](https://github.com/codeaashu/claude-code)<br>
+4. ⬆️ Pushed undefined commit(s) to [amerfathullah/amertechsolutions](https://github.com/amerfathullah/amertechsolutions)<br>
+5. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
