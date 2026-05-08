@@ -115,9 +115,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
 2. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
-3. ⭐ Starred [andrebrait/DATROMTool](https://github.com/andrebrait/DATROMTool)<br>
-4. ⭐ Starred [SabreTools/SabreTools](https://github.com/SabreTools/SabreTools)<br>
-5. ⭐ Starred [andrebrait/1g1r-romset-generator](https://github.com/andrebrait/1g1r-romset-generator)<br>
+3. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
+4. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
+5. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
