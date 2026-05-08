@@ -113,7 +113,7 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
+1. ⭐ Starred [Mode8fx/EzRO-gui](https://github.com/Mode8fx/EzRO-gui)<br>
 2. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
 3. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
 4. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
