@@ -113,10 +113,10 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aderumier/emulationstation_gamemanager](https://github.com/aderumier/emulationstation_gamemanager)<br>
-2. ⭐ Starred [Mode8fx/EzRO-gui](https://github.com/Mode8fx/EzRO-gui)<br>
-3. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
-4. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
+1. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
+2. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
+3. ⭐ Starred [aderumier/emulationstation_gamemanager](https://github.com/aderumier/emulationstation_gamemanager)<br>
+4. ⭐ Starred [Mode8fx/EzRO-gui](https://github.com/Mode8fx/EzRO-gui)<br>
 5. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
 <!--RECENT_ACTIVITY:end-->
 
