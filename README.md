@@ -116,8 +116,6 @@
 1. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
 2. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
 3. ⭐ Starred [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)<br>
-4. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
-5. ⬆️ Pushed undefined commit(s) to [amerfathullah/fbneo-1g1r-dat-filter](https://github.com/amerfathullah/fbneo-1g1r-dat-filter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
