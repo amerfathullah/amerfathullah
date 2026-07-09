@@ -116,8 +116,8 @@
 1. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 2. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
 3. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
-4. ⭐ Starred [ERPGulf/myinvois](https://github.com/ERPGulf/myinvois)<br>
-5. ⭐ Starred [ticohq/tico](https://github.com/ticohq/tico)<br>
+4. ⬆️ Pushed undefined commit(s) to [amerfathullah/dev-portfolio](https://github.com/amerfathullah/dev-portfolio)<br>
+5. ⭐ Starred [ERPGulf/myinvois](https://github.com/ERPGulf/myinvois)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
