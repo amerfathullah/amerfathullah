@@ -113,7 +113,7 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
+1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 2. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
 3. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
 4. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
