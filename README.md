@@ -113,9 +113,9 @@
 <h3 align="left">🕒 Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-2. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
-3. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
+1. ⭐ Starred [hexya-erp/hexya](https://github.com/hexya-erp/hexya)<br>
+2. ⭐ Starred [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk)<br>
+3. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 4. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
 5. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
 <!--RECENT_ACTIVITY:end-->
