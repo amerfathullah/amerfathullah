@@ -114,10 +114,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
-2. ⭐ Starred [hexya-erp/hexya](https://github.com/hexya-erp/hexya)<br>
-3. ⭐ Starred [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk)<br>
-4. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-5. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
+2. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
+3. ⭐ Starred [hexya-erp/hexya](https://github.com/hexya-erp/hexya)<br>
+4. ⭐ Starred [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk)<br>
+5. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 *(Auto-updated using [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))*
