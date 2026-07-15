@@ -12,6 +12,9 @@
   <a href="https://www.amerfathullah.com">
     <img src="https://img.shields.io/badge/Portfolio-amerfathullah.com-ff6347?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://dev.amerfathullah.com">
+    <img src="https://img.shields.io/badge/Startup-AF%20Tech-ff6347?style=for-the-badge&logo=rocket&logoColor=white" alt="AF Tech" />
+  </a>
   <a href="https://www.linkedin.com/in/amerfathullah/">
     <img src="https://img.shields.io/badge/LinkedIn-Amer%20Fathullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,9 +37,9 @@
 
 * 🚀 Experienced in developing and deploying **enterprise-grade web applications**, **REST APIs**, and **cloud-native systems**.
 
-* 🌱 Currently expanding my skills in **Flutter** and **cross-platform mobile application development**.
+* 🏗️ Founder of [**AF Tech**](https://dev.amerfathullah.com), my startup company focused on building technology products and digital solutions.
 
-* 💼 I also run [**Amer Tech Solutions**](https://amertechsolutions.amerfathullah.com), providing IT support, computer and mobile device services, and technical solutions.
+* 🌱 Currently expanding my skills in **Flutter** and **cross-platform mobile application development**.
 
 * 🌐 Visit my portfolio at [**amerfathullah.com**](https://www.amerfathullah.com).
 
@@ -124,13 +127,11 @@ A digital financing platform focused on improving liquidity and working capital 
 
 ---
 
-### 🏢 Amer Tech Solutions
+### 🚀 AF Tech
 
-[**Visit Website**](https://amertechsolutions.amerfathullah.com)
+[**Visit AF Tech**](https://dev.amerfathullah.com)
 
-A technology services platform offering IT support, computer and mobile device services, troubleshooting, upgrades, and other technical solutions.
-
-**Technologies:** Astro • Tailwind CSS
+My startup company focused on building technology products, digital solutions, and software-driven ideas.
 
 ---
 
@@ -138,7 +139,7 @@ A technology services platform offering IT support, computer and mobile device s
 
 [**amerfathullah.com**](https://www.amerfathullah.com)
 
-My personal portfolio showcasing my professional experience, technical skills, projects, and services.
+My personal portfolio showcasing my professional experience, technical skills, projects, and development work.
 
 ---
 
@@ -153,14 +154,6 @@ My personal portfolio showcasing my professional experience, technical skills, p
 * 📱 [**Flutter & Dart — The Complete Guide**](https://www.udemy.com/certificate/UC-204d389d-7290-41b8-b858-c733d8f5b4bb)
 
 * 💻 [**Build an App with ASP.NET Core and Angular**](https://ude.my/UC-47d01744-374f-44d9-bf87-a10df7f1e666)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amerfathullah&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
