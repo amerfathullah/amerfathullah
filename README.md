@@ -168,6 +168,13 @@ My personal portfolio showcasing my professional experience, technical skills, p
 
 <p align="center">
   <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amerfathullah&theme=dark&background=141414&ring=ff6347&fire=ff6347&currStreakLabel=ff6347&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&hide_border=true"
+    alt="Amer Fathullah's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=amerfathullah&layout=compact&langs_count=8&theme=transparent&title_color=ff6347&text_color=ffffff&hide_border=true"
     alt="Amer Fathullah's Top Languages"
   />
@@ -175,30 +182,40 @@ My personal portfolio showcasing my professional experience, technical skills, p
 
 ---
 
-## 🕒 Recent Activity
+## 🐍 Contribution Activity
 
-<!--RECENT_ACTIVITY:start-->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amerfathullah/amerfathullah/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/amerfathullah/amerfathullah/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Amer Fathullah's GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/amerfathullah/amerfathullah/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
-1. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
-2. ⬆️ Pushed undefined commit(s) to [amerfathullah/MyERP](https://github.com/amerfathullah/MyERP)<br>
-3. ⭐ Starred [hexya-erp/hexya](https://github.com/hexya-erp/hexya)<br>
-4. ⭐ Starred [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk)<br>
-5. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+---
 
-<!--RECENT_ACTIVITY:end-->
+## 🎧 Now Playing
 
-<p>
-  <sub>
-    Auto-updated using
-    <a href="https://github.com/Readme-Workflows/recent-activity">GitHub Activity Readme</a>.
-  </sub>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uwcmnoae6rjjmw3qnvw6wy1g3&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uwcmnoae6rjjmw3qnvw6wy1g3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+  </a>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/amerfathullah/">
     <img src="https://img.shields.io/badge/LinkedIn-Amer%20Fathullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
