@@ -206,8 +206,24 @@ My personal portfolio showcasing my professional experience, technical skills, p
 ## 🎧 Now Playing
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uwcmnoae6rjjmw3qnvw6wy1g3&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uwcmnoae6rjjmw3qnvw6wy1g3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=222cyufe2yvxnsfz4sfmms5kq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=40c33c&bar_color_cover=true"
+      alt="Spotify Now Playing"
+    />
+  </a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://ko-fi.com/G3N0238I5H">
+    <img
+      src="https://ko-fi.com/img/githubbutton_sm.svg"
+      alt="Support me on Ko-fi"
+    />
   </a>
 </p>
 
