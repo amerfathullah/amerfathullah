@@ -161,21 +161,14 @@ My personal portfolio showcasing my professional experience, technical skills, p
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=amerfathullah&count_private=true&show_icons=true&bg_color=141414&title_color=ff6347&icon_color=ff6347&text_color=ffffff&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=amerfathullah&show_icons=true&theme=transparent&title_color=ff6347&icon_color=ff6347&text_color=ffffff&hide_border=true"
     alt="Amer Fathullah's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amerfathullah&theme=dark&background=141414&ring=ff6347&fire=ff6347&currStreakLabel=ff6347&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&hide_border=true"
-    alt="Amer Fathullah's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerfathullah&layout=compact&bg_color=141414&title_color=ff6347&text_color=ffffff&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=amerfathullah&layout=compact&langs_count=8&theme=transparent&title_color=ff6347&text_color=ffffff&hide_border=true"
     alt="Amer Fathullah's Top Languages"
   />
 </p>
